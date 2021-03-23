@@ -21,7 +21,9 @@ GOL as a project delves into Conway's cellular automaton and gives the user the 
 
 ### What's Included:
 . Radio buttons for pattern selection
+
 . Buttons for generating grid, running a set amount of generations or saving/opening a grid & single step generation
+
 . Table for identifying cells based on color and age
 
 ----
